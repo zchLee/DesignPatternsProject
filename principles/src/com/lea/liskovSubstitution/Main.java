@@ -26,7 +26,7 @@ package com.lea.liskovSubstitution;
  *  里士替换原则为良好的继承定义了一个规范，一个简单的定义包含了4层含义：
  *     1. 子类必须完全实现父类的方法                   见 package1
  *     2. 子类可以有自己的个性                        见 package2
- *     3. 覆盖或实现父类的方法时输入参数可以方法         见 package3
+ *     3. 覆盖或实现父类的方法时输入参数可以放大         见 package3
  *     4. 重写或实现父类的方法时输出结果可以被缩小        见 package4
  */
 public class Main {
