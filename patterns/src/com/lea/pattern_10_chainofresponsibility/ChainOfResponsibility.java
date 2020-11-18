@@ -1,12 +1,10 @@
-package com.lea.pattern_9_chainofresponsibility;
+package com.lea.pattern_10_chainofresponsibility;
 
-import com.lea.pattern_9_chainofresponsibility.common.ConcreteHandler_1;
-import com.lea.pattern_9_chainofresponsibility.common.ConcreteHandler_2;
-import com.lea.pattern_9_chainofresponsibility.common.Handler;
-import com.lea.pattern_9_chainofresponsibility.common.HandlerChain;
-import com.lea.pattern_9_chainofresponsibility.common.Level;
-import com.lea.pattern_9_chainofresponsibility.common.Request;
-import com.lea.pattern_9_chainofresponsibility.common.Response;
+import com.lea.pattern_10_chainofresponsibility.common.Handler;
+import com.lea.pattern_10_chainofresponsibility.common.HandlerChain;
+import com.lea.pattern_10_chainofresponsibility.common.Level;
+import com.lea.pattern_10_chainofresponsibility.common.Request;
+import com.lea.pattern_10_chainofresponsibility.common.Response;
 
 /**
  * @author lzc

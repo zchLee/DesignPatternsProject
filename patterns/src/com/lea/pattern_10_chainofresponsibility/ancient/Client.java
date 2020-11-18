@@ -1,4 +1,4 @@
-package com.lea.pattern_9_chainofresponsibility.ancient;
+package com.lea.pattern_10_chainofresponsibility.ancient;
 
 import java.util.Random;
 

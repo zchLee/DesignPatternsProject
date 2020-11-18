@@ -1,4 +1,4 @@
-package com.lea.pattern_9_chainofresponsibility.common;
+package com.lea.pattern_10_chainofresponsibility.common;
 
 /**
  * @author lzc
