@@ -26,21 +26,21 @@ public class Context {
         this.liftState.setContext(this);
     }
 
-//    public void open() {
-//        this.liftState.open();
-//    }
-//
-//    public void close() {
-//        this.liftState.close();
-//    }
-//
-//    public void run() {
-//        this.liftState.run();
-//    }
-//
-//    public void stop() {
-//        this.liftState.stop();
-//    }
+    public void open() {
+        this.liftState.open();
+    }
+
+    public void close() {
+        this.liftState.close();
+    }
+
+    public void run() {
+        this.liftState.run();
+    }
+
+    public void stop() {
+        this.liftState.stop();
+    }
 
 
 }

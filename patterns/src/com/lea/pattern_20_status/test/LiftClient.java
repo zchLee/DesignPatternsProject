@@ -14,6 +14,11 @@ package com.lea.pattern_20_status.test;
 public class LiftClient {
 
     public static void main(String[] args) {
-
+        Context context = new Context();
+        context.setLiftState(Context.closingState);
+        context.open();
+        context.close();
+        context.run();
+        context.stop();
     }
 }
