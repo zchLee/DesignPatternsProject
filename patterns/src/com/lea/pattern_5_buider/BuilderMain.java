@@ -6,7 +6,7 @@ import com.lea.pattern_5_buider.customize.ConcreteBuilder;
  * @author lzc
  * @create 2020-11-11 09:45
  * 建造者模式(builder pattern)
- *      讲一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。
+ *      将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。
  *
  * 优点：
  *  封装性：使用建造者可以使客户端不必知道产品内部组成的细节。
